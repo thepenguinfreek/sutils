@@ -9,7 +9,7 @@
 #define FORMAT        "%s %i"
 #define TOKSEP        "=\n"
 #define BAT_PATH      "/sys/class/power_supply/BAT%i/uevent"
-#define BAT_INDEX     0
+#define BAT_INDEX     1
 #define KEY_PREFIX    "POWER_SUPPLY_"
 #define STATUS_KEY    KEY_PREFIX "STATUS"
 #define CAPACITY_KEY  KEY_PREFIX "CAPACITY"
